@@ -1,1 +1,1 @@
-web: gunicorn ka-django-app.wsgi
+web: gunicorn ka-django-app.mysite.wsgi
